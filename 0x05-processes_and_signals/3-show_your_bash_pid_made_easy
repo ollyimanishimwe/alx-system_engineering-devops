@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Lists all the process in the that has a name
+# related to bash
+
+pgrep -l bash
+
