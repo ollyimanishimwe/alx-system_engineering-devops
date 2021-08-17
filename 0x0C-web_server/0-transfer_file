@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # transfers a file for a client
-# to a server
+# to a server 
 
 if [ -z "$4" ];
 then
